@@ -1,0 +1,8 @@
+“I’m here to make sure <Entity>Trump</Entity> doesn’t get elected. To usher in a new era. ... It’s possible for a woman to be elected.”
+<Entity>Kai Jackson-Issa,</Entity> Decatur, Ga.
+“I start at 7:30, so if I get here at 7, I can vote before I start work and it’s a long day. I have a union meeting tonight and hopefully all my members get out and vote.”
+<Entity>Harold Harrington,</Entity> Flint, Mich.
+“I want to get off and get my day going. I vote because I have the right and privilege to. It’s a democracy and I want to keep it that way.”
+<Entity>Bud Phelan,</Entity> Canterbury, NH
+“I was very proud in coming up and voting ... just to have the opportunity to make history once again.”
+<Entity>Barbara McLemore,</Entity> Flint, Mich.

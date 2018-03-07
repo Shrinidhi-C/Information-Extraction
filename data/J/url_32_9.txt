@@ -1,0 +1,4 @@
+Members of the president’s transition team were ordered on Thursday to preserve documents and other materials related to the investigation, according to a memo obtained by The Times.
+_____
+• President <Entity>Trump</Entity> will not deport the so-called Dreamers, undocumented immigrants who came to the U.S. as small children, seemingly reversing a campaign pledge. But White House officials also cautioned on Friday morning that Mr. <Entity>Trump</Entity> had not made a decision about the long-term fate of the program and might yet follow through on a campaign pledge to take away work permits from the immigrants or deport them.
+• On Friday, President <Entity>Trump</Entity> announced that he was reversing crucial pieces of the Obama-era policy of engagement with Cuba, arguing that he was revoking elements of a “terrible and misguided deal” by reinstating travel and commercial restrictions in a bid to force concessions from the Castro government.

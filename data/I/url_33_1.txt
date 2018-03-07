@@ -1,0 +1,2 @@
+Shortly after President <Entity>Trump</Entity> fired F.B.I. Director <Entity>James B. Comey,</Entity> New York Times readers expressed optimism, outrage and skepticism across nytimes.com, Facebook and Twitter.
+Mr. <Entity>Trump</Entity> said he fired Mr. <Entity>Comey</Entity> over the F.B.I. investigation into <Entity>Hillary Clinton’s</Entity> private email server, but in his letter to Mr. <Entity>Comey,</Entity> the president hinted that he was also concerned about the investigation into his own administration’s ties to Russia.

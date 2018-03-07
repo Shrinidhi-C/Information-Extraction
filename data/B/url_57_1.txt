@@ -1,0 +1,6 @@
+President <Entity>Obama</Entity> defended his legacy and laid out the ways <Entity>Hillary Clinton</Entity> would continue it at the Democratic National Convention on Wednesday. Other speakers included Vice President <Entity>Joseph R. Biden Jr.,</Entity> <Entity>Michael R. Bloomberg</Entity> and Senator <Entity>Tim Kaine,</Entity> Mrs. <Entity>Clinton’s</Entity> running mate.
+The highlights (or watch live and get our real-time analysis):
+• Mr. <Entity>Obama,</Entity> in the night’s most anticipated speech, offered a defiantly optimistic assessment of America’s future and of the woman who he hopes will lead it. Even as he acknowledged “we’re not done perfecting our union,” he said that in his experience, <Entity>Donald J. Trump’s</Entity> vision of the country as chaotic and in decline rang hollow and would not be rewarded.
+“The America I know is full of courage, and optimism, and ingenuity,” Mr. <Entity>Obama</Entity> said, amid searing attacks on Mr. <Entity>Trump,</Entity> the Republican nominee. “This year, in this election, I’m asking you to join me — to reject cynicism, reject fear, to summon what’s best in us.”
+Mrs. <Entity>Clinton</Entity> shares that vision, he said, and she has been “in the arena” fighting for it for much of her life.
+_____

@@ -1,0 +1,5 @@
+When <Entity>Donald J. Trump</Entity> made provocative remarks on Wednesday about Russian intelligence services and <Entity>Hillary Clinton’s</Entity> email, readers of The New York Times responded with a record number of comments.
+More than 9,220 comments on the article were approved by moderators, who review nearly every one before they are published on The Times’s digital platforms. Thousands more comments were posted on The Times’s Facebook page.
+The article became the most-commented on in The Times’s history.
+At his news conference, Mr. <Entity>Trump</Entity> said he hoped Russian intelligence services had hacked Mrs. <Entity>Clinton’s</Entity> email, and encouraged them to publish whatever they might have stolen, essentially urging them to commit cyberespionage.
+Here are excerpts from the comments, some of which have been lightly edited for clarity.

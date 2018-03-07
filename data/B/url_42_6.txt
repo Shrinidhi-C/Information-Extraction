@@ -1,0 +1,3 @@
+She has largely been absent since the Republican convention in July, but Ms. <Entity>Trump</Entity> will make an appearance on behalf of her husband in suburban Philadelphia on Thursday.
+According to the campaign, Ms. <Entity>Trump</Entity> will “address the American people to get out the vote and share what a <Entity>Trump</Entity> Administration’s vision would be like for American women, children and families” at the event at the Main Line Sports Center in Berwyn.
+Ms. <Entity>Trump</Entity> has maintained that she has kept a low profile so that she can focus on raising her young child, but the campaign hinted that she would help her husband make his final pitch to voters.

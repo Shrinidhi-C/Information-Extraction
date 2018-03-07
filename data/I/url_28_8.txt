@@ -1,0 +1,1 @@
+Mr. <Entity>Wang</Entity> meets regularly with prominent Americans, including <Entity>Henry A. Kissinger,</Entity> the former secretary of state, and <Entity>Henry M. Paulson,</Entity> the former Treasury secretary. People who know Mr. <Entity>Wang</Entity> describe him as well-read, intellectually curious and unafraid to engage in fierce debates with his visitors.

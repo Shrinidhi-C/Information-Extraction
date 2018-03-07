@@ -1,0 +1,6 @@
+“I want <Entity>Hillary Clinton</Entity> to be our next president because <Entity>Donald Trump</Entity> is a despicable human being. That’s why I am here at 5:45 a.m. I am voting even before coffee.”
+<Entity>Rachel Austin,</Entity> New York City
+“I’ve always voted; it’s just what you do. I’m a vet, and things like this are important to me.”
+<Entity>Joe Scileppi,</Entity> Ashland, Va.
+“I’m here to vote for the next president, either Mr. <Entity>Donald Trump,</Entity> or Ms. <Entity>Hillary Clinton.</Entity> I still haven’t decided yet; I’ll decide in there.”
+<Entity>Abel Morales,</Entity> Miami

@@ -1,0 +1,3 @@
+Mr. Trump has shown more discipline on the campaign trail in recent weeks, but his criticism of the pastor demonstrated that he is still willing to push back against perceived slights. Mr. <Entity>Trump</Entity> also allowed himself to belittle Mrs. <Entity>Clinton’s</Entity> recent illness at a rally on Wednesday night, suggesting that she could not stand for such an event and that she was probably “lying in bed.”
+After the interruption at the church, Mr. Trump went on to discuss the economic situation in Flint. He said on Thursday that most of the people who attended the event at the church welcomed him warmly.
+“The audience was saying ‘let him speak, let him speak,’ ” Mr. <Entity>Trump</Entity> said. “The audience was so great.”

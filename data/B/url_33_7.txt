@@ -1,0 +1,4 @@
+— <Entity>Toni</Entity> in Florida
+“Excellent. Now the FBI can finally investigate <Entity>Hillary Clinton</Entity> and the <Entity>Clinton</Entity> Foundation. Great leadership shown by our President and his administration.”
+— <Entity>Jeff Yepsen</Entity> on The Times’ Facebook page
+“Liberals have been calling for <Entity>Comey’s</Entity> head ever since he said he was reopening the investigation into <Entity>Clinton.</Entity> Well, today you got what you wanted, so what’s the problem?”

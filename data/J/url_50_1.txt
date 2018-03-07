@@ -1,0 +1,3 @@
+<Entity>Donald J. Trump’s</Entity> presidential campaign is preparing to hit the airwaves on Monday with a new advertising blitz in swing states that casts <Entity>Hillary Clinton</Entity> as a candidate who would crush the middle class under a mountain of new taxes.
+The $10 million ad buy is the largest to date for Mr. <Entity>Trump</Entity> in the general election. His message will be broadcast in Ohio, Pennsylvania, North Carolina, Florida, New Hampshire, Virginia, Iowa, Colorado and Nevada — a batch of battlegrounds that will likely determine the outcome of the race in November.
+A spokesman for the Trump campaign, <Entity>Jason Miller,</Entity> confirmed the ad buy, which was reported earlier by The Associated Press, in a Twitter message.

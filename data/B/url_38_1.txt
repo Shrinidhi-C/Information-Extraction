@@ -1,0 +1,7 @@
+It’s finally here: Election Day. People across the country are turning out to vote on Tuesday morning. We dispatched photographers throughout the country to meet the early birds among us — the first people in line — and asked what brought them to the polls.
+“I couldn’t sleep because I was so anxious, up at 4 pacing the floor. I am voting for the future of our country and have never felt more fearful about any election in my lifetime.”
+<Entity>Serene Jones,</Entity> New York City
+“Everyone is the same whether they are black, white, Puerto Rican or Muslim. I want to see young generations come together for equality in this country.”
+<Entity>Christina Simmerman,</Entity> Columbus, Ohio
+“This is my first time voting. I don’t want to see Trump win.”
+<Entity>Ajani Issa,</Entity> Decatur, Ga.

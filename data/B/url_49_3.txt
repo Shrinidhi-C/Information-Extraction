@@ -1,0 +1,5 @@
+He suggested that Mr. <Entity>Trump</Entity> was only coming as part of a “desperate” strategy to improve his sagging poll numbers and in explicit terms he urged Americans not to vote for him.
+“I cannot envision him sitting in that chair, that was the chair of President <Entity>Washington,</Entity> President <Entity>Jefferson,</Entity> President <Entity>Kennedy,</Entity> President <Entity>Reagan,”</Entity> Mr. <Entity>Fox</Entity> said. “He doesn’t know how to run a nation. He doesn’t even know how to run a business.”
+As he prepared to travel to Mexico, Mr. <Entity>Trump</Entity> responded to Mr. <Entity>Fox’s</Entity> attacks, noting on Twitter that the former Mexican president once suggested that he pay the country a visit.
+Mr. <Entity>Fox</Entity> fired back with a Twitter post of his own, reminding Mr. <Entity>Trump</Entity> that he invited him to come to Mexico and personally apologize to all Mexicans.
+“Stop lying!” Mr. <Entity>Fox</Entity> wrote. “Mexico is not yours to play with, show some respect.”

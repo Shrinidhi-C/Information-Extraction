@@ -1,0 +1,5 @@
+COLUMBUS, Ohio — <Entity>Hillary Clinton</Entity> disparaged the economic record and policy acumen of <Entity>Donald J. Trump</Entity> in a speech on Tuesday, suggesting his ideas were ill-considered and scrutinizing his own checkered business history.
+Some of the highlights:
+• Mrs. <Entity>Clinton</Entity> said the American economy “isn’t yet where we want it to be, but we are stronger and better positioned than anyone in the world.” She trumpeted her fiscal record as a senator from New York.
+• She said that, like Mr. <Entity>Trump’s</Entity> foreign policy ideas, his economic proposals were dangerous. “Just like he shouldn’t have his finger on the button, he shouldn’t have his hands on our economy,” Mrs. <Entity>Clinton</Entity> said.
+• Mrs. <Entity>Clinton</Entity> cited a series of Mr. <Entity>Trump’s</Entity> past controversial comments about issues like the minimum wage. She said Mr. <Entity>Trump</Entity> had also “said all kinds of things about women in the workforce. He once called pregnant employees — and I quote — ‘an inconvenience.’”

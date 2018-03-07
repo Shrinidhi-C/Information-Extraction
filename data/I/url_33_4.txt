@@ -1,0 +1,3 @@
+<Entity>Janice Fahey</Entity> on The Times’s Facebook page
+Readers said that President <Entity>Trump</Entity> made a mistake in firing Mr. <Entity>Comey</Entity> and suggested that the president’s vanity led him to the decision.
+“I think <Entity>Comey’s</Entity> remark about being ‘mildly nauseous’ about swaying the election is what sealed the deal. <Entity>Trump</Entity> lost face, and this is something he cannot allow. His pride and vanity will be his undoing.”

@@ -1,0 +1,5 @@
+nose
+sphinx
+sklearn
+beautifulsoup4
+nytimesarticle

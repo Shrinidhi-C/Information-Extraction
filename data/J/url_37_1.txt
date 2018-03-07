@@ -1,0 +1,3 @@
+<Entity>Hillary Clinton</Entity> publicly conceded the election to <Entity>Donald J. Trump</Entity> on Wednesday, acknowledging the pain of the defeat in remarks in New York while calling on her supporters to accept that he would be president and give him a chance to lead with an open mind.
+President <Entity>Obama,</Entity> speaking in Washington, also said that he would work to ensure a smooth transition to a <Entity>Trump</Entity> administration and that, despite their differences, we are “all rooting for his success.”
+Speaker <Entity>Paul D. Ryan</Entity> proclaimed that Mr. <Entity>Trump</Entity> had achieved a political feat and earned a mandate by reaching new voters.

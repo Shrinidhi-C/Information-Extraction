@@ -1,0 +1,6 @@
+In a long-expected announcement, <Entity>Mitt Romney</Entity> said on Friday that he would run for the United States Senate, pledging to bring Utah’s priorities of balanced budgets, strong economy and welcoming borders to Washington.
+Mr. <Entity>Romney,</Entity> a former governor of Massachusetts and the 2012 Republican nominee for president, made the announcement in a two-minute video posted to Twitter and Facebook. He cited his experience as the chief executive of the organizing committee for the 2002 Winter Olympics in Salt Lake City and compared Utah, where his mother was born, favorably to the nation’s capital.
+“Utah has a lot to teach the politicians in Washington,” he said, contrasting the state’s balanced budgets and positive export-to-import-ratio to Washington’s.
+And, in a pointed gesture toward the restrictive immigration policies of President <Entity>Trump,</Entity> he noted that “Utah welcomes legal immigrants from around the world,” while “Washington sends immigrants a message of exclusion.”
+Last month, The New York Times reported that Mr. <Entity>Romney</Entity> had said privately that he was planning a Senate campaign. “I’m running,” he texted a close friend, <Entity>Kem Gardner.</Entity>
+He would replace Senator <Entity>Orrin G. Hatch,</Entity> who announced in early January that he would retire at the end of the year.

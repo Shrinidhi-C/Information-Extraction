@@ -1,0 +1,5 @@
+President <Entity>Trump’s</Entity> election and had previously volunteered for Senator <Entity>Bernie Sanders.</Entity>
+_____
+• Nearly 200 Democratic members of Congress filed a federal lawsuit on Wednesday accusing President <Entity>Trump</Entity> of violating the Constitution by profiting from business dealings with foreign governments.
+It is the third such lawsuit against Mr. <Entity>Trump</Entity> on the issue since he became president, part of a coordinated effort by the president’s critics to force him to reveal his business entanglements and either sell off his holdings or put them in a blind trust.
+_____

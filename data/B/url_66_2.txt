@@ -1,0 +1,6 @@
+Four of the last five Republican presidential nominees have said that they would not be in Cleveland next week (The exception is <Entity>Bob Dole,</Entity> the nominee in 1996). Nor will almost every Republican senator in tight re-election races.
+<Entity>Rabbi Lookstein’s</Entity> email is below:
+Friends,
+When <Entity>Ivanka Trump,</Entity> a member of our congregation, invited me to deliver the opening prayer at the Republican National convention next Monday, I made a personal decision to honor her request out of respect for her and our relationship. Unfortunately, when my name appeared on a list of speakers at the convention, without the context of the invocation I had been invited to present, the whole matter turned from rabbinic to political, something which was never intended. Like my father before me, I have never been involved in politics. Politics divide people. My life has been devoted to uniting a community — Ahavat Yisrael and ahavat ha-adam. In the interest of bringing our community together, I have asked to be relieved of my commitment to deliver the invocation. My request has been honored with the same love and respect in which it was first offered and intended. May God bless us with a Sabbath of rest, harmony and peace. Shabbat Shalom.
+ Very cordially yours,
+<Entity>Haskel Lookstein</Entity>

@@ -1,0 +1,5 @@
+<Entity>“Laura</Entity> and I wish the president-elect, <Entity>Melania</Entity> and the entire <Entity>Trump</Entity> family all our very best as they take on an awesome responsibility and begin an exciting new chapter in their lives,” former President <Entity>George W. Bush</Entity> said in a statement.
+Mr. <Entity>Bush</Entity> had been critical of Mr. <Entity>Trump</Entity> when he was campaigning on behalf of his brother <Entity>Jeb</Entity> this year but said that he was rooting for Mr. <Entity>Trump</Entity> now.
+“We pray for the success of our country and the success of our new president,” Mr. <Entity>Bush</Entity> said.
+Mr. <Entity>Bush’s</Entity> father, <Entity>George Bush,</Entity> the 41st president, also spoke to Mr. <Entity>Trump</Entity> on Wednesday. A spokesman said that they talked for about five minutes and that the call was friendly and gracious.
+“Good luck on your new challenge,” Mr. <Entity>Bush</Entity> said.

@@ -1,0 +1,2 @@
+“President <Entity>Obama,</Entity> I think, probably did sometimes and maybe sometimes he didn’t,” Mr. <Entity>Trump</Entity> said, standing in the Rose Garden alongside Senator <Entity>Mitch McConnell,</Entity> Republican of Kentucky and the majority leader. “That’s what I was told. All I can do is ask my generals.”
+On Tuesday, it became clear that Mr. <Entity>Trump’s</Entity> source was Mr. <Entity>Kelly,</Entity> a former commander of the military’s Southern Command, whom he recruited in July from the Department of Homeland Security to serve as chief of staff.

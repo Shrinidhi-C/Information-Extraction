@@ -1,0 +1,3 @@
+“He was persuaded that <Entity>Bannon</Entity> still has influence with the administration. He’s also a guy who likes to think on a big scale, and likes to talk to other people who think on a big scale.”
+Mr. <Entity>Bannon,</Entity> who once lived in Shanghai, has said he views China as the greatest long-term threat to the United States. “A hundred years from now, this is what they’ll remember,” he declared in a recent interview. “What we did to confront China on its rise to world domination.”
+“China right now is Germany in 1930,” Mr. <Entity>Bannon</Entity> said. “It’s on the cusp. It could go one way or the other.”

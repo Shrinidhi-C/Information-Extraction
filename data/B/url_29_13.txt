@@ -1,0 +1,5 @@
+“This has to be said,” she wrote. “Sexism and misogyny played a role in the 2016 presidential election. Exhibit A is that the flagrantly sexist candidate won.”
+By her own admission, Mrs. <Entity>Clinton</Entity> has not come to terms with losing to Mr. <Entity>Trump.</Entity> At a few points, she interrupted her narrative with bitter tangents about the president. In a line that has already attracted attention, she wrote that she considered saying, “Back up, you creep, get away from me,” when he hovered behind her during one of their debates.
+But she also concluded that Mr. <Entity>Trump</Entity> had rare skills as a presidential candidate. “You’ve got to give it to <Entity>Trump</Entity> — he’s hateful,” she wrote, “but it’s hard to look away from him.”
+And in a passage that will sadden her supporters as much as it satisfies her critics, Mrs. <Entity>Clinton</Entity> grappled with her limitations as a candidate and the hatred she generated among Republicans.
+“What makes me such a lightning rod for fury?” she wrote. “I’m really asking. I’m at a loss.”

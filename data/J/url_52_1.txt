@@ -1,0 +1,2 @@
+<Entity>Hillary Clinton</Entity> received a surge of support after the Democratic National Convention, according to a new national poll that showed her opening a lead against <Entity>Donald J. Trump</Entity> with fewer than 100 days to go before the presidential election.
+When <Entity>Gary Johnson,</Entity> the Libertarian Party’s nominee, is added to the mix he receives 10 percent of the vote and Mrs. <Entity>Clinton</Entity> holds a five-point lead.

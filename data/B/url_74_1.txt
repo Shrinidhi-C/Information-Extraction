@@ -1,0 +1,6 @@
+<Entity>Donald J. Trump</Entity> on Sunday renewed his call for the United States to consider profiling as a preventive tactic against terrorism in the aftermath of the mass shooting last week in Orlando, Fla.
+“I hate the concept of profiling, but we have to start using common sense,” Mr. <Entity>Trump,</Entity> the presumptive Republican presidential nominee, said in an interview on CBS’s “Face the Nation.”
+Mr. <Entity>Trump</Entity> issued a similar call in December after the terrorist attack in San Bernardino, Calif., which left 14 people dead and more than 20 injured.
+On Sunday, he also sought to downplay any differences between his positions on gun control and those of the National Rifle Association. Last week, Mr. <Entity>Trump</Entity> wrote on Twitter that people on the government’s terrorist watch list should be barred from buying firearms, a stance that contradicts that of the N.R.A.
+But Mr. <Entity>Trump</Entity> seems to be backtracking, saying on ABC’s “This Week” that he “understands exactly” the N.R.A.’s objections to restricting access to people on the watch list.
+“A lot of people are on the list that really maybe shouldn’t be on the list, and their rights are being taken away,” he said.

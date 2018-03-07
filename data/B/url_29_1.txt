@@ -1,0 +1,3 @@
+In an angry, unsparing new book, <Entity>Hillary Clinton</Entity> said she regretted not striking back at <Entity>James B. Comey</Entity> in July 2016, when he accused her of acting recklessly in using a private email account while secretary of state, even as he announced that the F.B.I. would not seek criminal charges against her.
+“My first instinct was that my campaign should hit back and explain that Mr. <Entity>Comey</Entity> had badly overstepped his bounds,” she wrote in the book, her attempt to make sense of her electoral defeat by <Entity>Donald J. Trump.</Entity> But, she said, her campaign advisers talked her out of it, convincing her that it was better “to just let it go and try to move on.”
+“Looking back,” she concluded, “that was a mistake.”

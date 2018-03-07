@@ -1,0 +1,2 @@
+<Entity>“Bob Corker</Entity> gave us the Iran Deal, & that’s about it,” Mr. <Entity>Trump</Entity> tweeted on Sunday.
+On Tuesday, the White House offered details. “Senator <Entity>Corker</Entity> worked with <Entity>Nancy Pelosi</Entity> and the <Entity>Obama</Entity> administration to pave the way for that legislation, and basically rolled out the red carpet for the Iran deal,” <Entity>Sarah Huckabee Sanders,</Entity> the White House press secretary, told reporters, referring to the House Democratic leader.

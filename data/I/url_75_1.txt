@@ -1,0 +1,3 @@
+For months, a central question of the 2016 presidential race has been how much distance <Entity>Hillary Clinton</Entity> needs to keep between herself and President <Entity>Obama.</Entity>
+In the last 50 years, voters have shown little interest in backing the candidate of the same party as a sitting president. (The exception is <Entity>George Bush,</Entity> who succeeded <Entity>Ronald Reagan.)</Entity>
+But the country has grown drastically more partisan in recent years. Mrs. Clinton is relying on support from the <Entity>Obama</Entity> coalition to be elected. And Mr. <Entity>Obama</Entity> is relying on her to continue his legacy.

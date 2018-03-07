@@ -1,0 +1,5 @@
+PHILADELPHIA — The prime-time lineup for Night 1 of the Democratic National Convention in Philadelphia was full of political star power: the first lady, <Entity>Michelle Obama;</Entity> Senator <Entity>Elizabeth Warren</Entity> of Massachusetts, and Senator <Entity>Bernie Sanders</Entity> of Vermont all addressed the crowd, and speeches were given by athletes, activists and celebrities.
+Here are the highlights::
+• In an emotional finale to his campaign, Mr. <Entity>Sanders</Entity> was greeted with a standing ovation and was frequently interrupted by thunderous applause. Speaking directly to his supporters — many of whom were in the hall as delegates — he sympathized with their disappointment and urged them to take “enormous pride” in what they had started. But, he said, the time had come.
+“By these measures, any objective observer will conclude that — based on her ideas and her leadership — <Entity>Hillary Clinton</Entity> must become the next president of the United States,” Mr. <Entity>Sanders</Entity> said several minutes into his remarks. “The choice is not even close.”
+_____

@@ -1,0 +1,4 @@
+Both candidates are expected to campaign aggressively in Ohio, Pennsylvania and Florida ahead of the November election. No candidate has won the presidency without winning two of those three states since 1960, Quinnipiac notes.
+<Entity>“Donald Trump</Entity> enters the Republican convention on a small roll in the three most important swing states in the country,” Mr. <Entity>Brown</Entity> said.
+Separate polls released on Wednesday by NBC/Wall Street Journal/Marist also showed Mr. <Entity>Trump</Entity> and Mrs. <Entity>Clinton</Entity> statistically tied in Ohio and Iowa. In Pennsylvania, Mrs. <Entity>Clinton</Entity> holds a solid advantage, topping Mr. <Entity>Trump</Entity> by nine percentage points, 45 percent to 36 percent.
+As with the Quinnipiac polls, the surveys show Mr. <Entity>Trump</Entity> gaining ground in the last month.

@@ -1,0 +1,2 @@
+Mr. <Entity>Trump</Entity> then listed the 1979 Iran hostage crisis, Iran’s sponsorship of terrorism and its support of President <Entity>Bashar al Assad</Entity> of Syria among other examples of the country’s “hostile actions.”
+All of these actions are undoubtedly hostile, but they require more context, said <Entity>Abbas Amanat,</Entity> an Iran scholar at Yale University, who added that the 1979 revolution was a popular movement and that the government, though repressive, has been moderating.

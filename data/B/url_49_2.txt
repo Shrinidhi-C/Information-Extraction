@@ -1,0 +1,4 @@
+Mr. <Entity>Fox</Entity> has been critical of Mr. <Entity>Trump’s</Entity> plan to build a wall on the border between the United States and Mexico and on Wednesday he shrugged off recent signs of Mr. <Entity>Trump</Entity> softening his plans to deport 11 million undocumented immigrants.
+“You cannot trust a guy like this,” Mr. <Entity>Fox</Entity> said. “How can we grant confidence and support to ideas that change everyday? He cynically continues to disregard his own people and disregard Mexicans.”
+Despite Mr. <Entity>Trump’s</Entity> promises that Mexico will pay for his border wall, Mr. <Entity>Fox</Entity> vowed in February that it would never happen. He also called Mr. <Entity>Trump</Entity> a “false prophet” who was misleading his followers.
+On Wednesday, Mr. <Entity>Fox</Entity> expressed disbelief that Mr. <Entity>Peña Nieto</Entity> would invite Mr. <Entity>Trump</Entity> for the private meeting.

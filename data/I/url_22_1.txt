@@ -1,0 +1,3 @@
+President <Entity>Trump</Entity> inaccurately linked a report of increasing crime in parts of Britain to “radical Islamic terror” in a tweet early Friday.
+Mr. <Entity>Trump’s</Entity> use of quotation marks suggests he is directly citing a passage from a recently released report. The White House did not respond when asked what exactly Mr. <Entity>Trump</Entity> was quoting, but the British Office for National Statistics, in a bulletin released on Thursday, estimated a 13 percent increase in “police recorded crime” in England and Wales from June 2016 to June 2017.
+First, the United Kingdom also includes Scotland and Northern Ireland.

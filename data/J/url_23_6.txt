@@ -1,0 +1,3 @@
+Then Mr. <Entity>Cruz</Entity> — or someone on his staff who runs the Twitter account — responded to the tweet with the Zodiac killer’s note.
+That left Twitter users to sort out whether the Texas senator Mr. <Entity>Cruz</Entity> should be applauded for his sense of humor, or whether the time had finally come to put this joke to rest.
+The Zodiac killer, who is not <Entity>Ted Cruz,</Entity> remains unidentified.

@@ -1,0 +1,1 @@
+Here’s a quick look at how The New York Times unraveled the story of <Entity>Donald Trump Jr.’s</Entity> decision to meet with a Russian lawyer who supposedly had compromising information on <Entity>Hillary Clinton.</Entity> The information, he was told, was being offered to his father’s campaign as “part of Russia and its government’s support for Mr. <Entity>Trump.”</Entity>

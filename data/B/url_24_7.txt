@@ -1,0 +1,3 @@
+The couple were seated at a table with the first lady, <Entity>Michelle Obama.</Entity> At the time, Mr. <Entity>Kelly</Entity> was the senior military assistant to Defense Secretary <Entity>Leon E. Panetta.</Entity>
+Asked about his son on Memorial Day in an interview on Fox & Friends, Mr. <Entity>Kelly,</Entity> his voice choking, replied, “Finest guy.”
+“Wonderful guy. Wonderful husband. Wonderful son. Wonderful brother. Brave beyond all get out,” he added. “His men still correspond with us. They still mourn him as we do.”

@@ -1,0 +1,3 @@
+Mrs. <Entity>Clinton</Entity> made headway in uniting the party, according to the CBS poll, with improved support from liberals and those who were hoping that Mr. <Entity>Sanders</Entity> would be the Democratic Party’s nominee.
+Earlier in July, two-thirds of Mr. <Entity>Sanders’s</Entity> supporters said they would vote for Mrs. <Entity>Clinton.</Entity> After the convention, however, 73 percent said that they supported her.
+The poll had a margin of error of plus or minus three percentage points.

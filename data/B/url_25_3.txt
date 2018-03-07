@@ -1,0 +1,1 @@
+Mr. <Entity>Trump’s</Entity> history lesson omitted a critical recent turning point: the 2009 Green Movement, when protesters took to Iran’s streets to dispute the election of President <Entity>Mahmoud Ahmadinejad</Entity> and call for more political freedom. Some even demanded for the removal of <Entity>Ayatollah Khamenei.</Entity>

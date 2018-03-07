@@ -1,0 +1,4 @@
+Mr. <Entity>Jones,</Entity> in an MSNBC appearance on Sept. 27, was asked whether he would oppose legislation banning abortion after 20 weeks. (At the time, the House was considering such a bill.)
+“I’m not in favor of anything that is going to infringe on a woman’s right and her freedom to choose,” he responded.
+Mr. <Entity>Jones</Entity> clarified his position days later in an interview with AL.com: “The law for decades has been that late-term procedures are generally restricted except in the case of medical necessity. That’s what I support. I don’t see any changes in that. It is a personal decision.”
+ In a December ad, Mr. <Entity>Jones’s</Entity> campaign wrote: <Entity>“Roy Moore</Entity> co-authored a legal course instructing students that women should not be allowed to run for office. <Entity>Moore’s</Entity> course taught that the Bible forbids women from holding elected office and Christians shouldn’t vote for women.”

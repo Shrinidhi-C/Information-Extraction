@@ -1,0 +1,3 @@
+Mr. <Entity>Trump</Entity> has accused Mrs. <Entity>Clinton</Entity> of “bigotry” toward African-Americans and said she and other Democrats had pandered to black voters without helping them find jobs and reduce crime.
+Mr. <Entity>Trump</Entity> has asked black voters “What do you have to lose?” in voting for him, after painting an image of poverty and crime sweeping their communities.
+Mrs. <Entity>Clinton</Entity> responded, “You also know better than anyone that people who look at the African-American community and see only poverty, crime and despair are missing so much.”

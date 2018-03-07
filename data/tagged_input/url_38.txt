@@ -1,0 +1,21 @@
+It’s finally here: Election Day. People across the country are turning out to vote on Tuesday morning. We dispatched photographers throughout the country to meet the early birds among us — the first people in line — and asked what brought them to the polls.
+“I couldn’t sleep because I was so anxious, up at 4 pacing the floor. I am voting for the future of our country and have never felt more fearful about any election in my lifetime.”
+<Entity>Serene Jones,</Entity> New York City
+“Everyone is the same whether they are black, white, Puerto Rican or Muslim. I want to see young generations come together for equality in this country.”
+<Entity>Christina Simmerman,</Entity> Columbus, Ohio
+“This is my first time voting. I don’t want to see Trump win.”
+<Entity>Ajani Issa,</Entity> Decatur, Ga.
+“I want <Entity>Hillary Clinton</Entity> to be our next president because <Entity>Donald Trump</Entity> is a despicable human being. That’s why I am here at 5:45 a.m. I am voting even before coffee.”
+<Entity>Rachel Austin,</Entity> New York City
+“I’ve always voted; it’s just what you do. I’m a vet, and things like this are important to me.”
+<Entity>Joe Scileppi,</Entity> Ashland, Va.
+“I’m here to vote for the next president, either Mr. <Entity>Donald Trump,</Entity> or Ms. <Entity>Hillary Clinton.</Entity> I still haven’t decided yet; I’ll decide in there.”
+<Entity>Abel Morales,</Entity> Miami
+“I’m here to make sure <Entity>Trump</Entity> doesn’t get elected. To usher in a new era. ... It’s possible for a woman to be elected.”
+<Entity>Kai Jackson-Issa,</Entity> Decatur, Ga.
+“I start at 7:30, so if I get here at 7, I can vote before I start work and it’s a long day. I have a union meeting tonight and hopefully all my members get out and vote.”
+<Entity>Harold Harrington,</Entity> Flint, Mich.
+“I want to get off and get my day going. I vote because I have the right and privilege to. It’s a democracy and I want to keep it that way.”
+<Entity>Bud Phelan,</Entity> Canterbury, NH
+“I was very proud in coming up and voting ... just to have the opportunity to make history once again.”
+<Entity>Barbara McLemore,</Entity> Flint, Mich.

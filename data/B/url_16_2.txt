@@ -1,0 +1,5 @@
+Asked on Monday if the president now questioned the authenticity of the tape, <Entity>Sarah Huckabee Sanders,</Entity> the White House press secretary, said that Mr. <Entity>Trump</Entity> had “made his position on that clear.”
+“The president hasn’t changed his position,” she said. “I think if anything that the president questions, it’s the media’s reporting on that accuracy.”
+It begins with audio of Mr. <Entity>Trump</Entity> speaking with <Entity>Billy Bush,</Entity> the former “Access Hollywood” host, on a bus. In the section that attracted the most attention, Mr. <Entity>Trump</Entity> referred to kissing women and grabbing them by their genitals without their consent.
+Here is the full transcript.
+After the recording was published, Mr. <Entity>Bush</Entity> was fired from his job on the “Today” show. He has since apologized and said he hopes to return to television.
